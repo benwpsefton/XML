@@ -1,0 +1,7 @@
+<!ELEMENT classics (name, model, country, company, price, year)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT year (#PCDATA)>

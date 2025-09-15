@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE classics SYSTEM "resources/classics.dtd">
+
+<classics>
+    <name> </name>
+    <model> </model>
+    <country> </country>
+    <company> </company>
+    <price> </price>
+    <year> </year>
+</classics>

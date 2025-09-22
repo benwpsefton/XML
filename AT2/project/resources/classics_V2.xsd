@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:import namespace="http://www.w3.org/2001/XMLSchema"/>
+	<xs:element name="classics">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="car" maxOccurs="15"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="car">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="model"/>
+				<xs:element ref="country"/>
+				<xs:element ref="company"/>
+				<xs:element ref="price"/>
+				<xs:element ref="year"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="name">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Fiat Strada"/>
+				<xs:enumeration value="Fiat Uno"/>
+				<xs:enumeration value="Ford Fiesta"/>
+				<xs:enumeration value="Lancia Beta"/>
+				<xs:enumeration value="Mazda 323"/>
+				<xs:enumeration value="Mercedes SL 300"/>
+				<xs:enumeration value="Mitsubishi Starion"/>
+				<xs:enumeration value="Nissan Sunny"/>
+				<xs:enumeration value="Peugeot 205"/>
+				<xs:enumeration value="Peugeot 306"/>
+				<xs:enumeration value="Porsche 911"/>
+				<xs:enumeration value="Renault Clio"/>
+				<xs:enumeration value="Toyota Corolla"/>
+				<xs:enumeration value="Vauxhall Cavalier"/>
+				<xs:enumeration value="Vauxhall Royale Coupé"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="model">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="130 TC"/>
+				<xs:enumeration value="4x4 Turbo"/>
+				<xs:enumeration value="AE86"/>
+				<xs:enumeration value="CPR 181 T"/>
+				<xs:enumeration value="Carrera Auto R"/>
+				<xs:enumeration value="GSR-VR"/>
+				<xs:enumeration value="GSi2000 16v"/>
+				<xs:enumeration value="GTI-6"/>
+				<xs:enumeration value="GTI-R"/>
+				<xs:enumeration value="Gullwing"/>
+				<xs:enumeration value="HPE"/>
+				<xs:enumeration value="Rallye"/>
+				<xs:enumeration value="Turbo"/>
+				<xs:enumeration value="Williams"/>
+				<xs:enumeration value="XR2i"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="country">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="France"/>
+				<xs:enumeration value="French"/>
+				<xs:enumeration value="German"/>
+				<xs:enumeration value="Germany"/>
+				<xs:enumeration value="Italy"/>
+				<xs:enumeration value="Japan"/>
+				<xs:enumeration value="United Kingdom"/>
+				<xs:enumeration value="United States"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="company">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Fiat"/>
+				<xs:enumeration value="Ford"/>
+				<xs:enumeration value="Lancia"/>
+				<xs:enumeration value="Mazda"/>
+				<xs:enumeration value="Mercedes"/>
+				<xs:enumeration value="Mitsubishi"/>
+				<xs:enumeration value="Nissan"/>
+				<xs:enumeration value="Peugeot"/>
+				<xs:enumeration value="Porsche"/>
+				<xs:enumeration value="Renault"/>
+				<xs:enumeration value="Toyota"/>
+				<xs:enumeration value="Vauxhall"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="price">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="$10,435"/>
+				<xs:enumeration value="$12,900"/>
+				<xs:enumeration value="$13,183"/>
+				<xs:enumeration value="$138,000"/>
+				<xs:enumeration value="$15,750"/>
+				<xs:enumeration value="$16,800"/>
+				<xs:enumeration value="$21,700"/>
+				<xs:enumeration value="$27,283"/>
+				<xs:enumeration value="$30,000"/>
+				<xs:enumeration value="$36,990"/>
+				<xs:enumeration value="$37,905"/>
+				<xs:enumeration value="$49,995"/>
+				<xs:enumeration value="$49,999"/>
+				<xs:enumeration value="$5,300"/>
+				<xs:enumeration value="$9 million"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="year">
+		<xs:simpleType>
+			<xs:restriction base="xs:integer">
+				<xs:enumeration value="1957"/>
+				<xs:enumeration value="1975"/>
+				<xs:enumeration value="1980"/>
+				<xs:enumeration value="1982"/>
+				<xs:enumeration value="1983"/>
+				<xs:enumeration value="1985"/>
+				<xs:enumeration value="1986"/>
+				<xs:enumeration value="1987"/>
+				<xs:enumeration value="1988"/>
+				<xs:enumeration value="1989"/>
+				<xs:enumeration value="1990"/>
+				<xs:enumeration value="1993"/>
+				<xs:enumeration value="1994"/>
+				<xs:enumeration value="1996"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+</xs:schema>

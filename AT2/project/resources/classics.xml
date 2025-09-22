@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<classics xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="resources/classics_V2.xsd">
+<classics xmlns="http://example.com/classics"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://example.com/classics resources/classics.xsd">
 	<car>
 		<name>Toyota Corolla</name>
 		<model>AE86</model>

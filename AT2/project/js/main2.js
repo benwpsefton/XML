@@ -4,7 +4,6 @@ function loadXMLData() {
         xhr.open("GET", "resources/classics.xml", true);
 
         xhr.onreadystatechange = function() {
-            'use strict';
             if (xhr.readyState === 4 && xhr.status === 200) {
                 const xmlDoc = xhr.responseXML;
                 const cars = xmlDoc.getElementsByTagName("car");

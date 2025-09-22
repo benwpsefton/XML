@@ -7,12 +7,42 @@
 				<xs:element name="car">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="name" type="xs:string"/>
-							<xs:element name="model" type="xs:string"/>
-							<xs:element name="country" type="xs:string"/>
-							<xs:element name="company" type="xs:string"/>
-							<xs:element name="price" type="xs:decimal"/>
-							<xs:element name="year" type="xs:date"/>
+							<xs:element name="name">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="model">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="country">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="company">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="price">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="year">
+								<xs:simpleType>
+									<xs:restriction base="xs:integer">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>

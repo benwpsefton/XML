@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <classics xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="resources/classics.xsd">
-
 	<car>
 		<name>Toyota Corolla</name>
 		<model>AE86</model>
@@ -10,7 +8,6 @@
 		<price>$49,999</price>
 		<year>1983</year>
 	</car>
-	
 	<car>
 		<name>Peugeot 205</name>
 		<model>Rallye</model>
@@ -19,7 +16,6 @@
 		<price>$49,995</price>
 		<year>1987</year>
 	</car>
-	
 	<car>
 		<name>Fiat Uno</name>
 		<model>Turbo</model>
@@ -28,7 +24,6 @@
 		<price>$16,800</price>
 		<year>1985</year>
 	</car>
-	
 	<car>
 		<name>Lancia Beta</name>
 		<model>HPE</model>
@@ -37,7 +32,6 @@
 		<price>$12,900</price>
 		<year>1975</year>
 	</car>
-	
 	<car>
 		<name>Ford Fiesta</name>
 		<model>XR2i</model>
@@ -46,7 +40,6 @@
 		<price>$13,183</price>
 		<year>1989</year>
 	</car>
-	
 	<car>
 		<name>Mazda 323</name>
 		<model>4x4 Turbo</model>
@@ -55,7 +48,6 @@
 		<price>$5,300</price>
 		<year>1986</year>
 	</car>
-	
 	<car>
 		<name>Renault Clio</name>
 		<model>Williams</model>
@@ -64,7 +56,6 @@
 		<price>$36,990</price>
 		<year>1993</year>
 	</car>
-	
 	<car>
 		<name>Nissan Sunny</name>
 		<model>GTI-R</model>
@@ -73,7 +64,6 @@
 		<price>$30,000</price>
 		<year>1990</year>
 	</car>
-	
 	<car>
 		<name>Peugeot 306</name>
 		<model>GTI-6</model>
@@ -82,7 +72,6 @@
 		<price>$15,750</price>
 		<year>1996</year>
 	</car>
-	
 	<car>
 		<name>Vauxhall Cavalier</name>
 		<model>GSi2000 16v</model>
@@ -91,7 +80,6 @@
 		<price>$37,905</price>
 		<year>1988</year>
 	</car>
-	
 	<car>
 		<name>Mitsubishi Starion</name>
 		<model>GSR-VR</model>
@@ -100,16 +88,14 @@
 		<price>$21,700</price>
 		<year>1982</year>
 	</car>
-	
 	<car>
 		<name>Fiat Strada</name>
 		<model>130 TC</model>
 		<country>Italy</country>
 		<company>Fiat</company>
-		<price>$30</price>
-		<year>$27,283</year>
+		<price>$27,283</price>
+		<year>1985</year>
 	</car>
-	
 	<car>
 		<name>Vauxhall Royale Coupé</name>
 		<model>CPR 181 T</model>
@@ -118,7 +104,6 @@
 		<price>$10,435</price>
 		<year>1980</year>
 	</car>
-	
 	<car>
 		<name>Porsche 911</name>
 		<model>Carrera Auto R</model>
@@ -127,7 +112,6 @@
 		<price>$138,000</price>
 		<year>1994</year>
 	</car>
-	
 	<car>
 		<name>Mercedes SL 300</name>
 		<model>Gullwing</model>
@@ -136,5 +120,4 @@
 		<price>$9 million</price>
 		<year>1957</year>
 	</car>
-
 </classics>

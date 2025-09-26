@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studio-one xmlns="http://example.com/studio-one"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://example.com/studio-one resources/studio-one.xsd">
+	<entry> <!-- SONG 1 -->
+		<album>Kid A</album>
+		<artist>Radiohead</artist>
+		<country>England</country>
+		<company>Parlophone/Capitol</company>
+		<song>Motion Picture Soundtrack</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2000</year>
+	</entry>
+	<entry> <!-- SONG 2 -->
+		<album>Grace</album>
+		<artist>Jeff Buckley</artist>
+		<country>United States</country>
+		<company>Columbia</company>
+		<song>Grace</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>1994</year>
+	</entry>
+	<entry> <!-- SONG 3 -->
+		<album>Ants From Up There</album>
+		<artist>Black Country, New Road</artist>
+		<country>England</country>
+		<company>Ninja Tune</company>
+		<song>Bread Song</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2022</year>
+	</entry>
+	<entry> <!-- SONG 4 -->
+		<album>album 4</album>
+		<artist>artist 4</artist>
+		<country>United States</country>
+		<company>company 4</company>
+		<song>song 4</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 5 -->
+		<album>album 5</album>
+		<artist>artist 5</artist>
+		<country>United States</country>
+		<company>company 5</company>
+		<song>song 5</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 6 -->
+		<album>album 6</album>
+		<artist>artist 6</artist>
+		<country>United States</country>
+		<company>company 6</company>
+		<song>song 6</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 7 -->
+		<album>album 7</album>
+		<artist>artist 7</artist>
+		<country>United States</country>
+		<company>company 7</company>
+		<song>song 7</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 8 -->
+		<album>album 8</album>
+		<artist>artist 8</artist>
+		<country>United States</country>
+		<company>company 8</company>
+		<song>song 8</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 9 -->
+		<album>album 9</album>
+		<artist>artist 9</artist>
+		<country>United States</country>
+		<company>company 9</company>
+		<song>song 9</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 10 -->
+		<album>album 10</album>
+		<artist>artist 10</artist>
+		<country>United States</country>
+		<company>company 10</company>
+		<song>song 10</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 11 -->
+		<album>album 11</album>
+		<artist>artist 11</artist>
+		<country>United States</country>
+		<company>company 11</company>
+		<song>song 11</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 12 -->
+		<album>album 12</album>
+		<artist>artist 12</artist>
+		<country>United States</country>
+		<company>company 12</company>
+		<song>song 12</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 13 -->
+		<album>album 13</album>
+		<artist>artist 13</artist>
+		<country>United States</country>
+		<company>company 13</company>
+		<song>song 13</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 14 -->
+		<album>album 14</album>
+		<artist>artist 14</artist>
+		<country>United States</country>
+		<company>company 14</company>
+		<song>song 14</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 15 -->
+		<album>album 15</album>
+		<artist>artist 15</artist>
+		<country>United States</country>
+		<company>company 15</company>
+		<song>song 15</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 16 -->
+		<album>album 16</album>
+		<artist>artist 16</artist>
+		<country>United States</country>
+		<company>company 16</company>
+		<song>song 16</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 17 -->
+		<album>album 17</album>
+		<artist>artist 17</artist>
+		<country>United States</country>
+		<company>company 17</company>
+		<song>song 17</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 18 -->
+		<album>album 18</album>
+		<artist>artist 18</artist>
+		<country>United States</country>
+		<company>company 18</company>
+		<song>song 18</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 19 -->
+		<album>album 19</album>
+		<artist>artist 19</artist>
+		<country>United States</country>
+		<company>company 19</company>
+		<song>song 19</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	<entry> <!-- SONG 20 -->
+		<album>album 20</album>
+		<artist>artist 20</artist>
+		<country>United States</country>
+		<company>company 20</company>
+		<song>song 20</song>
+		<media>.mp3</media>
+		<price>0.99</price>
+		<year>2025</year>
+	</entry>
+	
+</studio-one>

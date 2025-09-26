@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           targetNamespace="http://example.com/classics"
+           targetNamespace="http://example.com/studio-one"
            elementFormDefault="qualified">
-	<xs:element name="classics">
+	<xs:element name="studio-one">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element name="car" maxOccurs="unbounded">
+				<xs:element name="entry" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="name">
+							<xs:element name="album">
 								<xs:simpleType>
 									<xs:restriction base="xs:string">
 									</xs:restriction>
 								</xs:simpleType>
 							</xs:element>
-							<xs:element name="model">
+							<xs:element name="artist">
 								<xs:simpleType>
 									<xs:restriction base="xs:string">
 									</xs:restriction>
@@ -32,9 +32,21 @@
 									</xs:restriction>
 								</xs:simpleType>
 							</xs:element>
-							<xs:element name="price">
+							<xs:element name="song">
 								<xs:simpleType>
 									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="media">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="price">
+								<xs:simpleType>
+									<xs:restriction base="xs:decimal">
 									</xs:restriction>
 								</xs:simpleType>
 							</xs:element>

@@ -9,7 +9,7 @@
 		<company>Parlophone/Capitol</company>
 		<song>Motion Picture Soundtrack</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>10.43</price>
 		<year>2000</year>
 	</entry>
 	<entry> <!-- SONG 2 -->
@@ -19,7 +19,7 @@
 		<company>Columbia</company>
 		<song>Grace</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>10.20</price>
 		<year>1994</year>
 	</entry>
 	<entry> <!-- SONG 3 -->
@@ -29,7 +29,7 @@
 		<company>Ninja Tune</company>
 		<song>Bread Song</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>9.57</price>
 		<year>2022</year>
 	</entry>
 	<entry> <!-- SONG 4 -->
@@ -39,7 +39,7 @@
 		<company>company 4</company>
 		<song>song 4</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>9.20</price>
 		<year>2025</year>
 	</entry>
 	<entry> <!-- SONG 5 -->
@@ -49,7 +49,7 @@
 		<company>company 5</company>
 		<song>song 5</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>8.43</price>
 		<year>2025</year>
 	</entry>
 	<entry> <!-- SONG 6 -->
@@ -59,7 +59,7 @@
 		<company>company 6</company>
 		<song>song 6</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>4.50</price>
 		<year>2025</year>
 	</entry>
 	<entry> <!-- SONG 7 -->
@@ -69,7 +69,7 @@
 		<company>company 7</company>
 		<song>song 7</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>10.70</price>
 		<year>2025</year>
 	</entry>
 	<entry> <!-- SONG 8 -->
@@ -79,7 +79,7 @@
 		<company>company 8</company>
 		<song>song 8</song>
 		<media>.mp3</media>
-		<price>0.99</price>
+		<price>9.68</price>
 		<year>2025</year>
 	</entry>
 	<entry> <!-- SONG 9 -->

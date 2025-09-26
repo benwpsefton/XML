@@ -1,7 +1,7 @@
 function loadXMLData() {
     'use strict';
     const xmlUrl = "resources/studio-one.xml";
-    const xslUrl = "resources/transform.xsl";
+    const xslUrl = "resources/style.xsl";
     const outputDiv = document.getElementById("xsltResult");
 
     const xslRequest = new XMLHttpRequest();
